@@ -1,7 +1,8 @@
-package com.example.nytimesNewsApi
+package com.example.nytimesNewsApi.presentation.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.nytimesNewsApi.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
