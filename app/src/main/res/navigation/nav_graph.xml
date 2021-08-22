@@ -25,6 +25,10 @@
         <action
             android:id="@+id/action_newsListFragment_to_newsFilterFragment"
             app:destination="@id/newsFilterFragment" />
+        <argument
+            android:name="filterNewsArticle"
+            app:argType="com.example.nytimesNewsApi.domain.FilterNewsArticle"
+            app:nullable="true" />
     </fragment>
     <fragment
         android:id="@+id/newsDetailFragment"

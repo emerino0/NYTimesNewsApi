@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Kike/AppData/Local/Android/Sdk/platforms/android-30/data/res/layout/simple_spinner_item.xml" value="0.20244565217391305" />
         <entry key="..\:/Users/Kike/Desktop/NYTimesAPI/app/src/main/res/layout/fragment_news_detail.xml" value="0.20244565217391305" />
         <entry key="..\:/Users/Kike/Desktop/NYTimesAPI/app/src/main/res/layout/fragment_news_filter.xml" value="0.20244565217391305" />
         <entry key="..\:/Users/Kike/Desktop/NYTimesAPI/app/src/main/res/layout/fragment_news_list.xml" value="0.20244565217391305" />
