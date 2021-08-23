@@ -11,7 +11,7 @@
         tools:layout="@layout/fragment_news_filter" >
         <action
             android:id="@+id/action_newsFilterFragment_to_newsListFragment"
-            app:destination="@id/newsListFragment" />
+            app:destination="@id/newsListFragment"/>
     </fragment>
     <fragment
         android:id="@+id/newsListFragment"

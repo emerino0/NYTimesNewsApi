@@ -95,7 +95,6 @@ class NewsListFragment : Fragment() {
         }
     }
 
-
     private fun setUpViewModel() {
 
         val newsRepository = NewsRepository(
