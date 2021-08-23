@@ -38,5 +38,9 @@
         <action
             android:id="@+id/action_newsDetailFragment_to_newsListFragment"
             app:destination="@id/newsListFragment" />
+        <argument
+            android:name="newsArticle"
+            app:argType="com.example.nytimesNewsApi.data.models.NewsArticle"
+            app:nullable="true" />
     </fragment>
 </navigation>

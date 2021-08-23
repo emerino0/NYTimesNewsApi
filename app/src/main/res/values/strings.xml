@@ -7,4 +7,9 @@
     <string name="platform">Platform</string>
     <string name="periodo">Periodo</string>
     <string name="aceptar">Aceptar</string>
+    <string name="news_title">News Title</string>
+    <string name="news_author">News Author</string>
+    <string name="news_section">News section</string>
+    <string name="today">Today</string>
+    <string name="todo">TODO</string>
 </resources>
