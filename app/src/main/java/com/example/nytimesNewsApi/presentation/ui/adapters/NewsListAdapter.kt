@@ -9,6 +9,7 @@ import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 import com.example.nytimesNewsApi.data.models.NewsArticle
 import com.example.nytimesNewsApi.databinding.LayoutNewsItemBinding
+import com.example.nytimesNewsApi.domain.FilterNewsArticle
 import com.example.nytimesNewsApi.presentation.ui.fragments.NewsListFragmentDirections
 
 class NewsListAdapter : RecyclerView.Adapter<NewsListAdapter.NewsListViewHolder>() {
